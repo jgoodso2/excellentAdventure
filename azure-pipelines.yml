@@ -44,4 +44,3 @@ steps:
     deployToSlotOrASE: true
     ResourceGroupName: 'WebApplication5'
     SlotName: 'production'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
